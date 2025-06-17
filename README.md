@@ -3,7 +3,7 @@
 
 Soy estudiante de Ingenieria en Sistemas
 
-He programo en lenguajes como python, C# y JavaScript
+He programo en lenguajes como python, C#, Java y JavaScript
 
 
 Me gusta aprender cosas nuevas.
