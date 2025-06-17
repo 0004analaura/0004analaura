@@ -1,12 +1,7 @@
 # Hola soy Ana Laura
 
 
-Soy estudiante de Ingenieria en Sistemas
-
-Programo en lenguajes: python, C#, Java y JavaScript
-
-
-Me gusta aprender cosas nuevas.
+Me dedico a dar vida a ideas a través del código. Mi stack tecnológico incluye Python, C# y Java, y mi pasión se centra en el desarrollo de aplicaciones moviles(con Kotlin y Jetpack Compose para experiencias de usuario mondernas), web, APIs REST y soluciones de escritorio. Siempre en busca de proyectos desafiantes donde pueda aplicar y expandir mis habilidades."
 
 ### GitHub stats
 
